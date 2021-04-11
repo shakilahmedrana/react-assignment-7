@@ -1,0 +1,7 @@
+ .container {
+    margin:5px; width:300px; float:left;
+} 
+.picture{
+     border:1px solid lightgray; padding:5px; margin:5px; border-radius: 10px;
+     text-align: center;
+}
